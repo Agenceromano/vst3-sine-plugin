@@ -1,0 +1,61 @@
+# C++
+*.cpp
+*.h
+*.hpp
+*.c
+*.cc
+*.cxx
+*.hxx
+*.ino
+*.inc
+*.make
+*.mk
+
+# Build
+build/
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+*.pdb
+*.obj
+*.o
+*.s
+*.sln
+*.vcxproj
+*.xcodeproj
+*.xcodeproj/
+*.xcconfig
+
+# JUCE
+JuceLibraryCode/
+juce/*.h
+*.juce
+
+# IDE
+.idea/
+.vs/
+*.swp
+*.swo
+*~
+.DS_Store
+*.meta
+
+# VST3 (macOS)
+*.plugin/
+*.component
+
+# Tests
+*.test
+coverage/
+
+# Documentation
+*.aux
+*.log
+*.out
+
+# Misc
+*.bak
+*.tmp
+*.cache
